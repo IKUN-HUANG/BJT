@@ -16,7 +16,7 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin
 或将图片拖动到“派蒙可莉便签”的背景图存放位置:
 
 ```
-Yunzai/resources/ixciel/genshin-note/component/note.
+Yunzai/resources/ixciel/genshin-note/component/note
 ```
 
 xiaoyao-cvs-plugin2、3…等，需把后面序号删除后再合并.
