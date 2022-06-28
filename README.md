@@ -15,3 +15,5 @@ PS：1（By煌）与2（By曉K）有修改过css文件，需注意是否兼容�
 
 #### 免责声明
 图片仅限内部交流与小范围使用，请勿将BJT用于任何以盈利为目的的场景.
+
+#### [Yunzai-Bot插件库](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
