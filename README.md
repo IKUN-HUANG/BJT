@@ -7,9 +7,17 @@ xiaoyao-cvs-plugin的体力背景图库.
 此库提供群友制作的背景图，需搭配xiaoyao-cvs-plugin或群上传的插件“派蒙可莉便签”食用.
 
 #### 食用方法
-下载压缩包或者拉取git后把对应的图与xiaoyao-cvs-plugin合并即可.
+下载压缩包或者拉取git后把对应的图与xiaoyao-cvs-plugin合并即可.存放位置：
 
-或将图片拖动到“派蒙可莉便签”的背景图存放位置Yunzai/resources/ixciel/genshin-note/component/note.
+```
+Yunzai-Bot/plugins/xiaoyao-cvs-plugin
+```
+
+或将图片拖动到“派蒙可莉便签”的背景图存放位置:
+
+```
+Yunzai/resources/ixciel/genshin-note/component/note.
+```
 
 xiaoyao-cvs-plugin2、3…等，需把后面序号删除后再合并.
 
