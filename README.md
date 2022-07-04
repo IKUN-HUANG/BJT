@@ -1,7 +1,5 @@
 # DailyNote Background image for xiaoyao-cvs-plugin
 
-# SBTX，我谢谢你.
-
 #### 用途介绍
 xiaoyao-cvs-plugin的体力背景图库.
 
