@@ -1,29 +1,31 @@
 # DailyNote Background image for xiaoyao-cvs-plugin
 
+#### 很聪明嘛，还知道换分支，自己偷偷用就行了，别推荐给其他人.
+
 #### 用途介绍
 xiaoyao-cvs-plugin的体力背景图库.
 
-有俩种模板，体力1与体力2，体力2的全部以中文命名，如出错误，请自行修改文件夹名字.
-
 #### 图库说明
-此库提供群友制作的背景图，需搭配xiaoyao-cvs-plugin食用（下载群上传的插件“派蒙可莉便签”的，自觉换掉）.
+此库提供本人制作的背景图，需搭配xiaoyao-cvs-plugin食用.
 
 #### 食用方法
-下载压缩包或者拉取git后把对应的图与xiaoyao-cvs-plugin合并即可.存放位置：
+下载压缩包或者拉取git
+
+```
+git clone -b main https://gitee.com/cv-hunag/BJT.git
+```
+
+然后把对应的图与xiaoyao-cvs-plugin合并覆盖即可.存放位置：
 
 ```
 Yunzai-Bot/plugins/xiaoyao-cvs-plugin
 ```
 
-xiaoyao-cvs-plugin2、3…等，需把后面序号删除后再合并.
-
-PS：1（By煌），3（By曉K）有修改过体力1的css文件，需注意是否兼容位置.
-
-由于图库非同一人制作，风格会略有不同，请自行查看后斟酌食用.
-
-#### 免责声明
+#### 版权声明
 图片仅限内部交流与小范围使用，请勿将BJT用于任何以盈利为目的的场景.
 
-#### [Gitee：Yunzai-Bot插件库](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index)
+#### Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
-#### [GitHub：Yunzai-Bot插件库](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
+#### Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
+
+#### Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
