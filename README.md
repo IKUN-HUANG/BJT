@@ -1,6 +1,4 @@
-# DailyNote Background image for xiaoyao-cvs-plugin
-
-#### 很聪明嘛，还知道换分支，自己偷偷用就行了，别推荐给其他人.
+# 很聪明嘛，还知道换分支，自己偷偷用就行了，别推荐给其他人.
 
 #### 用途介绍
 xiaoyao-cvs-plugin的体力背景图库.
