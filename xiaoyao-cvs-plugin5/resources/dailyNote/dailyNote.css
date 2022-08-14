@@ -1,0 +1,162 @@
+@font-face {
+	font-family: HYWenHei-55W;
+	src: url('../font/TXQYJ-w4-1.ttf');
+}
+
+html {
+	width: 1273px;
+	height: 100%;
+	font-family: TXQYJ-w4-1, monospace;
+}
+
+#container {
+	min-height: 900px;
+	height: auto;
+	width: 100%;
+	/* background-color: rgba(0,0,0,0.5); */
+}
+
+.title {
+	position: absolute;
+	top: 24px;
+	left: 504px;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+}
+
+
+.paiqian {
+	position: absolute;
+	width: 400px;
+	height: 26px;
+	left: 830px;
+	top: 420px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.icon {
+	width: 65px;
+	margin: 3px 0 4px 13px;
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.icon_div {
+	display: inline-block;
+	vertical-align: super;
+	margin-top: -10px;
+	margin-left: 15px;
+}
+
+.all_icon {
+	text-align: left;
+	position: relative;
+	top: -25px;
+}
+
+.time {
+	position: relative;
+	top: -20px;
+}
+.top{
+	position: relative;
+	top: -20px;
+}
+.item .main .time {
+                
+	top: -20px;
+	left: 200px;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
+.item .main {
+               position: absolute;
+	
+}
+
+.item .top {
+                top: -30px;
+	left: 200px;
+	font-weight: bold;
+	font-size: 34px;
+	font-weight: bold;
+
+	
+}
+
+.item2 .main2 .top2 {
+	position: relative;
+	
+                top: -65px;
+	left: 530px;
+	font-weight: bold;
+	font-size: 34px;
+	font-weight: bold;	
+}
+.item3 .main3 .top3 {
+	position: relative;
+	
+                top: -130px;
+	left: 820px;
+	font-weight: bold;
+	font-size: 34px;
+	font-weight: bold;	
+}
+
+.item2 .main2 .time2 {
+	position: relative;                
+	top: -55px;
+	left: 530px;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+.item3 .main3 .time3 {
+	position: relative;                
+	top: -120px;
+	left: 820px;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+.item4 .main4 .top4 {
+	position: relative;
+                top: -50px;
+	left: 530px;
+	font-weight: bold;
+	font-size: 34px;
+	font-weight: bold;	
+}
+.item4 .main4 .time5 {
+	position: relative;                
+	top: -40px;
+	left: 530px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.item5 .main5 .top5 {
+	position: relative;
+                top: -120px;
+	left: 820px;
+	font-weight: bold;
+	font-size: 34px;
+	font-weight: bold;	
+}
+.item5 .main5 .info .time6 {
+	position: relative;                
+	top: -110px;
+	left: 820px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+.item:nth-last-child(2) {
+	/* margin-top: 35px; */
+}
