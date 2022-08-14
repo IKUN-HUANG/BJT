@@ -1,6 +1,6 @@
 # DailyNote Background image for xiaoyao-cvs-plugin
 
-####本人已跑路，以后仅更新群友制作的体力图.
+#### 本人已跑路，以后仅更新群友制作的体力图.
 
 #### 用途介绍
 xiaoyao-cvs-plugin的体力背景图库.
