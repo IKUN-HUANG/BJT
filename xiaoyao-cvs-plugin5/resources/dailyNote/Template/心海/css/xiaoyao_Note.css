@@ -93,7 +93,7 @@
 	font-size: 30px;
 	font-family: "HYWenHei";
 	text-align:left;
-	color: #373737; 
+	color: #000; 
 	/* float: right; */
 	width: 170px;
 	/* margin-top: 10px; */
@@ -112,8 +112,8 @@
 	
 	text-align: center;
 	position:absolute;
-    top:600px;
-	left:550px;
+    top:870px;
+	left:950px;
 	width: 364px;
 	height: 50px;
 	line-height: 50px;
@@ -183,13 +183,14 @@
 	position:absolute;
     width:10px;
 	display: block;
-	font-size: 18px;
+	font-size: 16px;
 	color: #000; 
 	font-family: "HYWenHei";
 	
-	width: 200px;
+	width: 300px;
 	padding-top:100px;
-	left:660px
+	left:800px;
+	top:785px;
 	
 	
 }
@@ -204,7 +205,7 @@
 .list:nth-child(1){ 
     display: block;
     font-size: 20px;
-	color: #616161; 
+	color: #000; 
 	font-family: "HYWenHei";
 	padding-left:100px;
 	padding-top:54px;
@@ -217,7 +218,7 @@
 
     display: inline-block;
     font-size: 20px;
-	color: #616161; 
+	color: #000; 
 	font-family: "HYWenHei";
 	padding-left:720px;
 	padding-top:65px;
@@ -230,7 +231,7 @@
     width: 1000px;
 	height: 1000px;
     font-size: 20px;
-	color: #616161; 
+	color: #000; 
 	font-family: "HYWenHei";
 	text-align:left;
 	top:130px;
@@ -245,7 +246,7 @@
     width: 1000px;
 	height: 1000px;
     font-size: 20px;
-	color: #616161; 
+	color: #000; 
 	font-family: "HYWenHei";
 	text-align:left;
 	top:130px;
@@ -259,7 +260,7 @@
     width: 1000px;
 	height: 1000px;
     font-size: 20px;
-	color: #616161; 
+	color: #000; 
 	font-family: "HYWenHei";
 	text-align:left;
 	top:280px;
