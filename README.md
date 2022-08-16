@@ -17,8 +17,6 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin
 
 xiaoyao-cvs-plugin2、3…等，需把后面序号删除后再合并.
 
-5（By地球生物）有修改过体力1的css文件，无法与其他体力图兼容.
-
 由于图库非同一人制作，风格会略有不同，请自行查看后斟酌食用.
 
 #### 版权声明
