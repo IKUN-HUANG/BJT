@@ -10,7 +10,7 @@ xiaoyao-cvs-plugin的体力背景图库.
 下载压缩包或者拉取git
 
 ```
-git clone -b main https://gitee.com/cv-hunag/BJT.git
+git clone -b huang https://gitee.com/cv-hunag/BJT.git
 ```
 
 然后把对应的图与xiaoyao-cvs-plugin合并覆盖即可.存放位置：
