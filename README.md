@@ -20,7 +20,7 @@ xiaoyao-cvs-plugin2、3…等，需把后面序号删除后再合并.
 由于图库非同一人制作，风格会略有不同，请自行查看后斟酌食用.
 
 #### 其他背景图库
-由曉K制作的体力模板2背景图图库:[传送门](https://gitee.com/SmallK111407/BJT-Template)
+曉K的体力模板2背景图图库:[传送门](https://gitee.com/SmallK111407/BJT-Template)
 
 #### 版权声明
 图片仅限内部交流与小范围使用，请勿将BJT用于任何以盈利为目的的场景.
