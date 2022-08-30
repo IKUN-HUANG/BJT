@@ -22,12 +22,14 @@ xiaoyao-cvs-plugin2、3…等，需把后面序号删除后再合并.
 #### 版权声明
 图片仅限内部交流与小范围使用，请勿将BJT用于任何以盈利为目的的场景.
 
-#### Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
+#### 相关项目
 
-#### Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
+########### Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
-#### xiaoyao-cvs-plugin：[Gitee](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin) & [Github](https://github.com/Ctrlcvs/xiaoyao-cvs-plugin)
+########### Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
 
-#### 曉K体力2背景图库: [Gitee](https://gitee.com/SmallK111407/BJT-Template) & [Github](https://github.com/SmallK111407/BJT-Template)
+########### xiaoyao-cvs-plugin：[Gitee](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin) & [Github](https://github.com/Ctrlcvs/xiaoyao-cvs-plugin)
 
-#### Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
+########### 曉K体力2背景图库: [Gitee](https://gitee.com/SmallK111407/BJT-Template) & [Github](https://github.com/SmallK111407/BJT-Template)
+
+########### Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
